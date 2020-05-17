@@ -1,0 +1,81 @@
+<component name="libraryTable">
+  <library name="Spring MVC" type="spring-mvc">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-aop-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-aop-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-aop-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-aspects-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-aspects-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-aspects-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-beans-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-beans-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-beans-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-context-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-context-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-context-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-context-indexer-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-context-indexer-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-context-indexer-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-context-support-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-context-support-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-context-support-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-core-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-core-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-core-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-expression-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-expression-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-expression-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-instrument-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-instrument-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-instrument-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-jcl-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-jcl-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-jcl-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-jdbc-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-jdbc-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-jdbc-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-jms-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-jms-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-jms-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-messaging-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-messaging-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-messaging-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-orm-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-orm-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-orm-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-oxm-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-oxm-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-oxm-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-test-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-test-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-test-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-tx-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-tx-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-tx-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-web-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-web-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-web-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-webflux-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-webflux-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-webflux-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-webmvc-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-webmvc-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-webmvc-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-websocket-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-websocket-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-5.2.6.RELEASE-dist/spring-framework-5.2.6.RELEASE/libs/spring-websocket-5.2.6.RELEASE.jar!/" />
+      <root url="jar:///media/ibrahim/IB'S SD/spring-mvc-config-files/solution-code-spring-mvc-config-files/spring-mvc/starter-files/spring-mvc-demo/lib/javax.servlet.jsp.jstl-1.2.1.jar!/" />
+      <root url="jar:///media/ibrahim/IB'S SD/spring-mvc-config-files/solution-code-spring-mvc-config-files/spring-mvc/starter-files/spring-mvc-demo/lib/javax.servlet.jsp.jstl-api-1.2.1.jar!/" />
+      <root url="jar:///media/ibrahim/IB'S SD/spring-mvc-config-files/solution-code-spring-mvc-config-files/spring-mvc/starter-files/spring-mvc-demo/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate-validator-6.1.3.Final-dist/hibernate-validator-6.1.3.Final/dist/hibernate-validator-6.1.3.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate-validator-6.1.3.Final-dist/hibernate-validator-6.1.3.Final/dist/hibernate-validator-annotation-processor-6.1.3.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate-validator-6.1.3.Final-dist/hibernate-validator-6.1.3.Final/dist/hibernate-validator-cdi-6.1.3.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate-validator-6.1.3.Final-dist/hibernate-validator-6.1.3.Final/dist/lib/required/classmate-1.3.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate-validator-6.1.3.Final-dist/hibernate-validator-6.1.3.Final/dist/lib/required/jakarta.el-3.0.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate-validator-6.1.3.Final-dist/hibernate-validator-6.1.3.Final/dist/lib/required/jakarta.validation-api-2.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate-validator-6.1.3.Final-dist/hibernate-validator-6.1.3.Final/dist/lib/required/jboss-logging-3.3.2.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
